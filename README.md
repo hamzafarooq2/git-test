@@ -1,4 +1,3 @@
 # git-test
 
-Hamza Farooq
-age : 23
+city: LAhore
